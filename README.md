@@ -1,3 +1,4 @@
 # Scripts
 
-1 - Get All Team Link in Teams
+1 - 
+Get General channel link of all teams within Microsoft Teams
